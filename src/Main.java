@@ -1,6 +1,6 @@
 //TODO: Musimy dodac brakujace klasy!
 
-//OK, ja dodam "adaer, a sTYMON odda 'subscractor
+//OK, ja dodam "adaer", a sTYMON odda 'subscractor
 
 public class Main {
     public static void main(String[] args) {
